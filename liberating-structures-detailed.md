@@ -3,9 +3,9 @@
 **Zweck:** Ideen generieren, Vielfalt sichtbar machen, alle Beteiligten einbeziehen.
 
 Schritte:
-1. 1 Minute – Einzel: Jede*r denkt still über die Frage nach.
-2. 2 Minuten – Paar: Zwei Personen tauschen sich aus.
-3. 4 Minuten – Vierergruppe: Zwei Paare verbinden sich, entwickeln Ideen weiter.
+- 1 Minute – Einzel: Jede*r denkt still über die Frage nach.
+- 2 Minuten – Paar: Zwei Personen tauschen sich aus.
+- 4 Minuten – Vierergruppe: Zwei Paare verbinden sich, entwickeln Ideen weiter.
 
 **Plenum – All**: Jede Gruppe teilt eine Kernaussage oder Idee.
 
